@@ -1,6 +1,5 @@
 Platform 
 Android / iOS
 
-Language
-Kotlin / Swift
 
+New update to test
